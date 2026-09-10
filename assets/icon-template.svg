@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Hand-drawn icon</title>
+  <desc id="desc">Editable clean hand-drawn SVG icon template.</desc>
+  <style>
+    .ink{fill:none;stroke:#233746;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}
+    .fine{fill:none;stroke:#233746;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <g id="icon"/>
+</svg>

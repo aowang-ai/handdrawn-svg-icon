@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Hand-drawn SVG icon skill</title>
+  <desc id="desc">A rounded pencil drawing a small colorful icon.</desc>
+  <path d="M16 73Q28 69 39 72Q50 76 62 71" fill="none" stroke="#233746" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M25 64L59 27L70 37L37 75L22 79Z" fill="#F2C76C" stroke="#233746" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M59 27L66 20Q69 18 72 21L77 26Q79 29 76 32L70 37Z" fill="#E59A7C" stroke="#233746" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M22 79L25 64L37 75Z" fill="#FFFDF6" stroke="#233746" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M75 52L78 44L81 52L89 55L81 58L78 66L75 58L67 55Z" fill="#7DB6CF" stroke="#233746" stroke-width="2.8" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Selected memory</title>
+  <desc id="desc">A polished hand-drawn memory box containing selected evidence cards.</desc>
+  <style>.ink{fill:none;stroke:#233746;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#233746;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}</style>
+  <path d="M18 18L52 13L57 49L22 53Z" fill="#D7E8F1" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M35 12L68 17L63 52L30 47Z" fill="#E8DFF0" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M49 19L79 15L82 50L52 53Z" fill="#F6E3AC" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M59 27Q68 25 75 27M59 35Q67 33 73 35" class="fine"/>
+  <path d="M12 43Q13 39 18 40L77 42Q82 42 83 47L80 81Q80 85 75 85L19 83Q14 83 14 79Z" fill="#FFFDF6" stroke="#233746" stroke-width="3.6" stroke-linejoin="round"/>
+  <path d="M13 57Q34 55 51 58Q68 55 82 58" class="ink"/>
+  <path d="M27 68Q45 65 62 68M28 76Q42 74 55 76" class="fine"/>
+  <path d="M64 64Q69 57 77 60Q86 63 85 72Q84 81 76 84Q67 84 63 77Q61 70 64 64Z" fill="#DDEAD9" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M68 71L73 76L81 66" fill="none" stroke="#5D8B67" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

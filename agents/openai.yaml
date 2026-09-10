@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hand-drawn SVG Icons"
+  short_description: "Draw clean, consistent hand-drawn SVG icon sets"
+  icon_small: "./assets/skill-icon.svg"
+  icon_large: "./assets/skill-icon.svg"
+  brand_color: "#233746"
+  default_prompt: "Use $handdrawn-svg-icon to create a coherent set of editable hand-drawn SVG icons for my diagram."

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Web search</title>
+  <desc id="desc">A polished hand-drawn magnifying glass examining a small web globe.</desc>
+  <style>.ink{fill:none;stroke:#233746;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#233746;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}</style>
+  <path d="M14 38Q15 20 31 13Q47 7 61 17Q75 27 72 44Q70 60 57 68Q42 75 28 67Q14 59 14 42Z" fill="#D7EAF2" stroke="#233746" stroke-width="3.7" stroke-linejoin="round"/>
+  <path d="M16 38Q37 31 70 38M17 49Q42 57 69 49M43 11Q30 27 30 42Q31 58 43 70M45 11Q58 27 56 43Q55 58 44 70M14 41Q40 43 72 41" class="fine"/>
+  <path d="M23 24Q29 18 36 16" stroke="#FFFDF6" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M61 62Q73 73 84 85" stroke="#233746" stroke-width="8" stroke-linecap="round"/>
+  <path d="M62 63Q73 73 83 84" stroke="#E59A7C" stroke-width="3.3" stroke-linecap="round"/>
+  <path d="M78 17L80 10M82 20L89 17M75 20L70 15" stroke="#F2C76C" stroke-width="2.7" stroke-linecap="round"/>
+</svg>

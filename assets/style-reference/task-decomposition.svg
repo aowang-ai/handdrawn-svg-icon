@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Task decomposition</title>
+  <desc id="desc">A polished hand-drawn task card branching into three bounded subtask cards.</desc>
+  <style>.ink{fill:none;stroke:#233746;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#233746;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}</style>
+  <path d="M8 31Q9 27 13 27L33 29Q37 29 36 34L35 64Q35 68 31 68L12 66Q8 66 8 62Z" fill="#FFFDF6" stroke="#233746" stroke-width="3.4" stroke-linejoin="round"/>
+  <path d="M15 39Q23 37 30 39M15 47Q22 46 28 47M15 55Q21 54 25 55" class="fine"/>
+  <path d="M36 48Q42 48 46 48M46 48Q55 46 58 24M46 48Q55 48 59 48M46 48Q55 51 58 72" class="ink"/>
+  <circle cx="47" cy="48" r="4" fill="#F2C76C" stroke="#233746" stroke-width="2.7"/>
+  <path d="M61 13L86 15L85 34L60 32Z" fill="#D7E8F1" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M61 38L87 37L86 58L60 59Z" fill="#E8DFF0" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M60 63L85 65L84 84L59 82Z" fill="#DDEAD9" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M68 23Q75 21 80 23M68 48Q75 46 81 48M67 73Q74 71 80 73" stroke="#5A91AE" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Coordinator agent</title>
+  <desc id="desc">A polished hand-drawn coordinator with a headset and a small orchestration board.</desc>
+  <style>.ink{fill:none;stroke:#233746;stroke-width:3.3;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#233746;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}</style>
+  <path d="M16 82Q18 59 31 54Q44 53 49 66Q52 73 52 83Z" fill="#E59A7C" stroke="#233746" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M20 30Q20 17 31 13Q43 10 50 21Q56 32 49 42Q43 49 33 47Q22 45 20 34Z" fill="#F2C76C" stroke="#233746" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M23 28Q23 15 36 14Q51 16 52 31M21 30L18 33V42Q19 47 24 47M52 31L56 34V42Q55 47 50 47M51 45Q48 52 40 52H36" class="ink"/>
+  <path d="M58 19Q58 15 62 15L84 17Q88 17 87 22L85 63Q84 67 80 67L61 65Q58 65 58 61Z" fill="#FFFDF6" stroke="#233746" stroke-width="3.3" stroke-linejoin="round"/>
+  <path d="M66 28Q73 25 80 28M66 38Q73 36 79 38M65 49Q72 47 78 49" class="fine"/>
+  <circle cx="64" cy="28" r="2.7" fill="#7DB6CF"/><circle cx="64" cy="38" r="2.7" fill="#F2C76C"/><circle cx="63" cy="49" r="2.7" fill="#90B58D"/>
+  <path d="M58 75Q69 67 83 75" fill="none" stroke="#5A91AE" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M78 70L85 75L78 81" fill="none" stroke="#5A91AE" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

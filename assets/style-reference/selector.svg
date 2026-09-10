@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence selector</title>
+  <desc id="desc">A polished hand-drawn evidence stream passing through a selector gate into accepted and rejected outcomes.</desc>
+  <style>.ink{fill:none;stroke:#233746;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#233746;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}</style>
+  <path d="M8 14L27 16L26 31L7 29Z" fill="#7DB6CF" stroke="#233746" stroke-width="2.8" stroke-linejoin="round"/>
+  <path d="M7 39L27 37L28 53L8 55Z" fill="#F2C76C" stroke="#233746" stroke-width="2.8" stroke-linejoin="round"/>
+  <path d="M8 64L27 66L26 82L7 80Z" fill="#E59A7C" stroke="#233746" stroke-width="2.8" stroke-linejoin="round"/>
+  <path d="M28 23Q37 28 42 39M28 46Q36 46 42 46M28 73Q37 66 42 54" class="ink"/>
+  <path d="M39 27Q53 25 68 28Q64 39 59 47L58 71L49 78L48 47Q43 37 39 27Z" fill="#D7E8F1" stroke="#233746" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M68 38Q75 31 84 35Q91 40 88 49Q85 57 76 56Q68 55 67 48" fill="#DDEAD9" stroke="#233746" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M73 45L77 49L84 41" fill="none" stroke="#5D8B67" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M59 62Q69 68 76 72" class="ink"/>
+  <path d="M74 67L87 70L84 83L71 80Z" fill="#F4DEDD" stroke="#233746" stroke-width="2.8" stroke-linejoin="round"/>
+  <path d="M76 72L82 79M83 73L76 79" stroke="#A85B5B" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
